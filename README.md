@@ -5,4 +5,4 @@
 ### Table of Contents
 ### Table of contents
  * [week1](/Week_1)
-  * [Day 1] (/Week_1/Day_1) 
+  * [day1](/Week_1/Day_1) 
